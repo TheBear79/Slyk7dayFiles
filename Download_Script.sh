@@ -19,7 +19,7 @@ echo "#########################################################"
 echo "Downloading virgin-replacements.txt"
 echo "#########################################################"
 # Download lamedb
-wget -O /etc/enigma2/SlykEpg7day/virgin-replacements.txt "https://raw.githubusercontent.com/davesayers2014/Slyk7dayFiles/master/virgin-replacements.txt
+wget -O /etc/enigma2/SlykEpg7day/virgin-replacements.txt "https://raw.githubusercontent.com/davesayers2014/Slyk7dayFiles/master/virgin-replacements.txt"
 echo $LINE
 echo $LINE
 echo "#########################################################"
